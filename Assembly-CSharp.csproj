@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
-    <LangVersion>latest</LangVersion>
+    <LangVersion>8.0</LangVersion>
   </PropertyGroup>
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{11BD12D5-9B84-B3B1-558A-08CC275807AD}</ProjectGuid>
+    <ProjectGuid>{EA63CD3F-77A9-0A68-74B5-7A0564DD01F8}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -53,6 +53,9 @@
     <UnityVersion>2020.3.22f1</UnityVersion>
   </PropertyGroup>
   <ItemGroup>
+    <Analyzer Include="C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\Visual Studio Tools for Unity\Analyzers\Microsoft.Unity.Analyzers.dll" />
+  </ItemGroup>
+  <ItemGroup>
     <Compile Include="Assets\Skripts\SceneFader.cs" />
     <Compile Include="Assets\Skripts\Bullet.cs" />
     <Compile Include="Assets\Skripts\PauseMenu.cs" />
@@ -74,13 +77,13 @@
     <Compile Include="Assets\Skripts\LifeUI.cs" />
     <Compile Include="Assets\Skripts\WaveSpawner.cs" />
     <Compile Include="Assets\Skripts\LevelSelector.cs" />
+    <Compile Include="Assets\Skripts\Brifing.cs" />
     <Compile Include="Assets\Skripts\PlayrStats.cs" />
     <Compile Include="Assets\Skripts\ClearSave.cs" />
     <Compile Include="Assets\Skripts\GameOver.cs" />
     <Compile Include="Assets\Skripts\BuildManager.cs" />
     <Compile Include="Assets\Skripts\Wave.cs" />
     <Compile Include="Assets\Skripts\MoneyUI.cs" />
-    <Compile Include="Assets\Skripts\Brifing.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

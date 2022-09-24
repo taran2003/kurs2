@@ -26,6 +26,8 @@ ScriptsOnlyBuild:
     - Waypoints
     - WinLevel
     - node
+    Unity.CollabProxy.Editor.dll:
+    - Unity.Cloud.Collaborate.UserInterface.CollaborateWindow
     Unity.Rider.Editor.dll:
     - Packages.Rider.Editor.UnitTesting.CallbackData
     UnityEditor.Graphs.dll:
@@ -1546,4 +1548,6 @@ ScriptsOnlyBuild:
   - Assets/Scenes/Level4.unity
   - Assets/Scenes/Level5.unity
   - Assets/Scenes/Level6.unity
-  playerPath: D:/Game/Tower Defence.exe
+  playerPath: "D:/Lab2 \u043D\u0430\u0434\u0451\u0436\u043D\u043E\u0441\u0442\u044C
+    \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F/Tower
+    Defence.exe"

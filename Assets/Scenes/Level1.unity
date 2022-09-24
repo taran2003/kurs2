@@ -20670,50 +20670,50 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   waves:
   - enemy: {fileID: 1678461470886343618, guid: 752d9d66d86dc1043b9775d27ee1c06e, type: 3}
-    fastEnemy: {fileID: 0}
-    fatEnemy: {fileID: 0}
-    count: 2
-    fastCount: 0
-    fatCount: 0
-    rate: 2
-  - enemy: {fileID: 3923823089830613217, guid: 04def6aeab642c2498ba2bc5ebecbfef, type: 3}
-    fastEnemy: {fileID: 0}
-    fatEnemy: {fileID: 0}
-    count: 1
-    fastCount: 0
-    fatCount: 0
-    rate: 2
-  - enemy: {fileID: 1678461470886343618, guid: 752d9d66d86dc1043b9775d27ee1c06e, type: 3}
-    fastEnemy: {fileID: 0}
-    fatEnemy: {fileID: 0}
+    fastEnemy: {fileID: 3923823089830613217, guid: 04def6aeab642c2498ba2bc5ebecbfef, type: 3}
+    fatEnemy: {fileID: 1998519268870637717, guid: d1a3084744d41424892e3e8f7e5bf94b, type: 3}
     count: 2
     fastCount: 0
     fatCount: 0
     rate: 2
   - enemy: {fileID: 1678461470886343618, guid: 752d9d66d86dc1043b9775d27ee1c06e, type: 3}
-    fastEnemy: {fileID: 0}
-    fatEnemy: {fileID: 0}
+    fastEnemy: {fileID: 3923823089830613217, guid: 04def6aeab642c2498ba2bc5ebecbfef, type: 3}
+    fatEnemy: {fileID: 1998519268870637717, guid: d1a3084744d41424892e3e8f7e5bf94b, type: 3}
+    count: 0
+    fastCount: 1
+    fatCount: 0
+    rate: 2
+  - enemy: {fileID: 1678461470886343618, guid: 752d9d66d86dc1043b9775d27ee1c06e, type: 3}
+    fastEnemy: {fileID: 3923823089830613217, guid: 04def6aeab642c2498ba2bc5ebecbfef, type: 3}
+    fatEnemy: {fileID: 1998519268870637717, guid: d1a3084744d41424892e3e8f7e5bf94b, type: 3}
+    count: 2
+    fastCount: 0
+    fatCount: 0
+    rate: 2
+  - enemy: {fileID: 1678461470886343618, guid: 752d9d66d86dc1043b9775d27ee1c06e, type: 3}
+    fastEnemy: {fileID: 3923823089830613217, guid: 04def6aeab642c2498ba2bc5ebecbfef, type: 3}
+    fatEnemy: {fileID: 1998519268870637717, guid: d1a3084744d41424892e3e8f7e5bf94b, type: 3}
     count: 5
     fastCount: 0
     fatCount: 0
     rate: 2
-  - enemy: {fileID: 3923823089830613217, guid: 04def6aeab642c2498ba2bc5ebecbfef, type: 3}
-    fastEnemy: {fileID: 0}
-    fatEnemy: {fileID: 0}
-    count: 7
-    fastCount: 0
-    fatCount: 0
-    rate: 2
-  - enemy: {fileID: 1998519268870637717, guid: d1a3084744d41424892e3e8f7e5bf94b, type: 3}
-    fastEnemy: {fileID: 0}
-    fatEnemy: {fileID: 0}
-    count: 3
-    fastCount: 0
+  - enemy: {fileID: 1678461470886343618, guid: 752d9d66d86dc1043b9775d27ee1c06e, type: 3}
+    fastEnemy: {fileID: 3923823089830613217, guid: 04def6aeab642c2498ba2bc5ebecbfef, type: 3}
+    fatEnemy: {fileID: 1998519268870637717, guid: d1a3084744d41424892e3e8f7e5bf94b, type: 3}
+    count: 0
+    fastCount: 7
     fatCount: 0
     rate: 2
   - enemy: {fileID: 1678461470886343618, guid: 752d9d66d86dc1043b9775d27ee1c06e, type: 3}
-    fastEnemy: {fileID: 0}
-    fatEnemy: {fileID: 0}
+    fastEnemy: {fileID: 3923823089830613217, guid: 04def6aeab642c2498ba2bc5ebecbfef, type: 3}
+    fatEnemy: {fileID: 1998519268870637717, guid: d1a3084744d41424892e3e8f7e5bf94b, type: 3}
+    count: 0
+    fastCount: 0
+    fatCount: 3
+    rate: 2
+  - enemy: {fileID: 1678461470886343618, guid: 752d9d66d86dc1043b9775d27ee1c06e, type: 3}
+    fastEnemy: {fileID: 3923823089830613217, guid: 04def6aeab642c2498ba2bc5ebecbfef, type: 3}
+    fatEnemy: {fileID: 1998519268870637717, guid: d1a3084744d41424892e3e8f7e5bf94b, type: 3}
     count: 10
     fastCount: 0
     fatCount: 0
